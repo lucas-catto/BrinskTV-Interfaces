@@ -1,0 +1,27 @@
+
+@import url('./../Global/global.css');
+
+header {
+    width:            100%;
+    height:           auto;
+    padding:          25px;
+    text-align:       center;
+    border-bottom:    3px solid white;
+}
+
+.container {
+    display:          flex;
+    flex-direction:   column;
+    justify-content:  space-between;
+    align-items:      center;
+}
+
+main {
+    
+}
+
+form {
+    width:            300px;
+    height:           400px;
+    background-color: red;
+}
